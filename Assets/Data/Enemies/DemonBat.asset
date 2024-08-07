@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1391c1c8adea9404fa68b1bb3fd84d02, type: 3}
+  m_Name: DemonBat
+  m_EditorClassIdentifier: 
+  Name: DemonBat
+  animatedPrefab: {fileID: 2735813880059463031, guid: 9c9a82bc96414a247a7eb1f59ed8e9c5, type: 3}
+  enemyStats:
+    hp: 435
+    damage: 40
+    speed: 2.5
+    experienceReward: 120
+    isBoss: 0

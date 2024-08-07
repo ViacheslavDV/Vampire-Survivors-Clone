@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1391c1c8adea9404fa68b1bb3fd84d02, type: 3}
+  m_Name: Minion
+  m_EditorClassIdentifier: 
+  Name: Minion
+  animatedPrefab: {fileID: 3756231833362719744, guid: 2bc9a4068223db04c9a2b7005763c0f8, type: 3}
+  enemyStats:
+    hp: 3200
+    damage: 85
+    speed: 2.6
+    experienceReward: 320
+    isBoss: 0

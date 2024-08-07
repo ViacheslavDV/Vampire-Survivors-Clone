@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d66c41783c938a946bee1502a0fd842f, type: 3}
+  m_Name: ThrowingKnife_7
+  m_EditorClassIdentifier: 
+  upgradeName: Throwing Knife lvl 7
+  upgradeDescription: Amplifies Damage to 85
+  upgradeIcon: {fileID: 21300000, guid: 9b50ca5aec5d4ca4c8c4c62f28ba8b63, type: 3}
+  upgradeType: 4
+  newAmplification: 85
+  newAtackSpeed: 0.55
+  newAttackRadius: 0
+  newNumberOfProjectiles: 2
+  weaponData: {fileID: 11400000, guid: 8241c2b12066d6b418f15758771607ce, type: 2}
+  prerequiredUpgrade: {fileID: 11400000, guid: 990ba95c5c9a41543af603f73eae8c95, type: 2}

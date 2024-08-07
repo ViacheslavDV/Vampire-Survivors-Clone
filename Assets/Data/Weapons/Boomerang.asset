@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ce78474ebb621141a1c967d0856580b, type: 3}
+  m_Name: Boomerang
+  m_EditorClassIdentifier: 
+  weaponName: Boomerang
+  weaponStats:
+    damage: 30
+    defaultDamage: 30
+    timeBetweenAtacks: 0.02
+    defaultTimeBetweenAtacks: 0.02
+    numberOfProjectiles: 2
+    defaultNumberOfProjectiles: 2
+    radiusOfAttack: 1
+    defaultRadiusOfAttack: 1
+  weaponPrimaryPrefab: {fileID: 3378345128703467474, guid: 8b932c79c27efad4dac306b84d89dfc3, type: 3}

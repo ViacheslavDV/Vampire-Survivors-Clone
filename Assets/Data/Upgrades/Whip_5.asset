@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d66c41783c938a946bee1502a0fd842f, type: 3}
+  m_Name: Whip_5
+  m_EditorClassIdentifier: 
+  upgradeName: Whip lvl 5
+  upgradeDescription: Increases Attack Speed
+  upgradeIcon: {fileID: 21300000, guid: f508651733b6bad47b3bfeef032c9322, type: 3}
+  upgradeType: 4
+  newAmplification: 80
+  newAtackSpeed: 0.8
+  newAttackRadius: 0
+  newNumberOfProjectiles: 1
+  weaponData: {fileID: 11400000, guid: 27f4bdb9e0697d5479bf7252f8b3a3d4, type: 2}
+  prerequiredUpgrade: {fileID: 11400000, guid: 058556cfa0d0f5a488baa77c20b02ac9, type: 2}

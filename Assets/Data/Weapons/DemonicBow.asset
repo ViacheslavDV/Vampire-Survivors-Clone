@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ce78474ebb621141a1c967d0856580b, type: 3}
+  m_Name: DemonicBow
+  m_EditorClassIdentifier: 
+  weaponName: Demonic Bow
+  weaponStats:
+    damage: 35
+    timeBetweenAtacks: 1.2
+    defaultDamage: 35
+    defaultTimeBetweenAtacks: 1.2
+    numberOfProjectiles: 1
+    defaultNumberOfProjectiles: 1
+  weaponPrimaryPrefab: {fileID: 2946763350399623226, guid: c5b01470dc2bf4b45b0241de12952d7f, type: 3}

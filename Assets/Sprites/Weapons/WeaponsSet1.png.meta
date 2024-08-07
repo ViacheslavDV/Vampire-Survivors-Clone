@@ -1,0 +1,2763 @@
+fileFormatVersion: 2
+guid: d53b537f35409a545b874043dc1539cc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bumerang_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1151.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac8cdae62838c746aa9bdd51fb5a2b2
+      internalID: -182438074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1151.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0420a4d0b98c8b740a38c08daace0ec5
+      internalID: 379867161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_2
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1151.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8591a9b6bd47a864ea1b500c21e93e55
+      internalID: 1662495943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1151.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d5290c907e7c74090976f5b7439b2c
+      internalID: -899916955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_4
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1151.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab071ef0023f98849b66d164fce7e1f2
+      internalID: -1232306888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_5
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1151.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e595e232d8e234e984e578b15728b3
+      internalID: -1811300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_6
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1151.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680625fd5db89b248925e73db2daa2c5
+      internalID: 1415871536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_7
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1151.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de466c9ef2b4514db0e7d6c9b6c2a2f
+      internalID: -80580917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_8
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1151.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3749933013ed0541a085a3cde113323
+      internalID: -1475039740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_9
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1151.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f1aa1dd9260c84db6ca25958d8c819
+      internalID: 1730482603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_10
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1151.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6d671cd34972c419b616ab93ec85f8
+      internalID: -1795086402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_11
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1151.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cfd983983c5624bbdeb74755d6fa21
+      internalID: 459965525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1024.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e9d6ad56a99c04abf7f957f43ad692
+      internalID: 641924331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_13
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1024.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab2f8cf732072d4f8b2a13860870e36
+      internalID: -491183866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_14
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1024.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1c1efb60119474bb4a109034e215eb
+      internalID: 1487184078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_15
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1024.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6952856600585b4a9f621c0526f6b79
+      internalID: -1127789542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_16
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1024.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e67a904991437498ba3b0e0365e1be
+      internalID: -663441948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_17
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1024.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cc8aa7fc9d3894494fd0817c5bbd7b
+      internalID: 1275012272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_18
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1024.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950c51554d8e01b41bd43bf51cd7c75f
+      internalID: 695491709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_19
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1024.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b0f3b68b948d046a74a912d066b2f1
+      internalID: -345215121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_20
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1024.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1498435bdfe37242b54bb1782f3f331
+      internalID: -1071414790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_21
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1024.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0716e042c7d3f649a9ddb205c73d424
+      internalID: -572169339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_22
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1024.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84854ef37642aa4886c610f23561d90
+      internalID: -1946007779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_23
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1024.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666a3a3b5a846544f8f29878664de892
+      internalID: 1760673894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 897.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb63d3a9ef77784084ac53b7246f7d6
+      internalID: -1465507040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_25
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 897.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f9dec6c4e9f9043bb4b4a9cc5a87d3
+      internalID: 999067751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_26
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 897.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e1c8cac66c91548bcc5c053d079ae2
+      internalID: 1318475234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_27
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 897.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbac6e8a6fc7d543bc4bfd3c1842557
+      internalID: -1187831419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_28
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 897.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4676158a5ff284c89da4a3af8e7aff
+      internalID: -1395862577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_29
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 897.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3963975b33f0f4db1ff1da68d6046f
+      internalID: -1386351744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_30
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 897.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083497d15b146c94399238302a223357
+      internalID: 1131779224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_31
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 897.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4e2ac9ffcf600498d69b4e920b8839
+      internalID: 1905272205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_32
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 897.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8bf27f9c5854a4488f4a4fbc90cd70
+      internalID: 698013221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_33
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 897.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fef92fda6035a42bb3c629699087dd
+      internalID: 879540321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_34
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 897.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89506ac91c938b64ea17b2b4a138f01d
+      internalID: 1563207957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_35
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 897.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51c3d168f311f7489fec5646ba8593b
+      internalID: 926735514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 770.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d7e96865f482648a6856cf126cb1ee
+      internalID: -800707403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_37
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 770.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913ba1dd3932c134e93651832421d82e
+      internalID: -577182846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_38
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 770.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d619baf9caf7044990c1bc2aa7619a7
+      internalID: -897361986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_39
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 770.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1cefa7504cb7d4684ae4a8ff7fcb42
+      internalID: 611767080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_40
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 770.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67fced9e3f391a489a3bef5607f73ae
+      internalID: 484347975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_41
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 770.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f2c7d55c23ead4594655aa30b4a9dd
+      internalID: -1714382645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_42
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 770.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21c4e8e20fb45448b056294d12cbe3a
+      internalID: -522761947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_43
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 770.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2a93d02714ed04f9aaf55ef1fbc883
+      internalID: -501744240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_44
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 770.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e70e5a4cb9a27449d94994cccf69c8
+      internalID: 1472759800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_45
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 770.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aead6a7b15f00424b9af1c3ce07ab938
+      internalID: 703469458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_46
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 770.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81ed7e4ef5340f4e9059c514698288c
+      internalID: -429016043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_47
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 770.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ce77d3824399a49a9602f361b70f74
+      internalID: 1754496015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 643.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2025aa406776dd44c9383ca906917d78
+      internalID: -823188480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_49
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 643.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8366801a37ca9c4cbeffaf3b624c7f4
+      internalID: 2006334335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_50
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 643.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85ab18e08344fa48a0ee18c4e070e3c
+      internalID: 1404230013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_51
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 643.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b124eb67d94c844f8c5482aa59f8068
+      internalID: -1978190620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_52
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 643.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f4da1d278f1974db3779dcb5772367
+      internalID: 2141087775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_53
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 643.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3fb621651c69845b5e63bc940d24b6
+      internalID: 571760971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_54
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 643.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6ade842ed1e614bb62b0c56b8634d5
+      internalID: -1485993665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_55
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 643.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bfb2787a2768940800b994a949e35e
+      internalID: 710271795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_56
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 643.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6938ae9495ab3ef469dc96cf4ef36fb3
+      internalID: -1671748659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_57
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 643.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7da69131ddcba44e8b748d3d837c81c
+      internalID: -1825992308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_58
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 643.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0088042038ef6c4d938489b4f9a2d5d
+      internalID: 1780818338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_59
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 643.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8406e54262f8a468bb8dab893e6cda
+      internalID: -1564775331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 516.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd93f507a7fa9e74b978d1392d21d51a
+      internalID: 1606949971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_61
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 516.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fae77b6485ca3b43b55d881c738c022
+      internalID: -1065806008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_62
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 516.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa63301262b26940bd2946ba3bc6ffa
+      internalID: 1206822591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_63
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 516.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3f04bc53b0fa24293f8ef91089c0e7
+      internalID: 1605026605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_64
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 516.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc21cae6ae973b449f66a6c3d18ad9f
+      internalID: -32022309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_65
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 516.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bde500c017562b42807f602ab07231b
+      internalID: 1370013247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_66
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 516.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f0d6360913f884f98a09deecd2ce29
+      internalID: -1643157137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_67
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 516.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300bf9936de6a6f4fbb97d73cf2389ca
+      internalID: -971495066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_68
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 516.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145885d9e5877124d9e6c18db6c891dd
+      internalID: 1244029449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_69
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 516.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713954eec6f3a644b8882bfb4e90fbb0
+      internalID: 1812928564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_70
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 516.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a069b06273717624787f64dccf26d295
+      internalID: -1558163902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_71
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 516.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ba6bf47e3d6334ab1775c061b284ed
+      internalID: -1117798175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_72
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 389.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb759b2891f19134f90695186a613b9e
+      internalID: 1295657151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_73
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 389.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f84f716ef75a44e96d070f32591aff
+      internalID: 1793269759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_74
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 389.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c541b6815123a5418070f564f238671
+      internalID: -341035961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_75
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 389.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0701ca27443dd47bd304e93f87ff8e
+      internalID: 402927562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_76
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 389.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1793d8c94f4c3244a8ff4c430384263
+      internalID: -742636356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_77
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 389.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baad90d28dba35243adb7a879c47866c
+      internalID: -53683647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_78
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 389.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdbd1bd3c0b91d4e873cfb12a61a844
+      internalID: 1090363613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_79
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 389.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b12477876c6fb42b3f29383891ab5d
+      internalID: -1440192280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_80
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 389.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d676e92fba0683a4da0853a779b3ee67
+      internalID: -1257867588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_81
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 389.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7e4b28b5be300499620a362babeb13
+      internalID: -1195224294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_82
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 389.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576e1662cf375484abf944d215a0efea
+      internalID: 1219249190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_83
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 389.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c7238966d0c3647b20da75f1c33862
+      internalID: -50623553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_84
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 262.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdafe1f4ff7c8847b746880cce95d6f
+      internalID: -1928315247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_85
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 262.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbaa76bb873bf74ea4d5a4636f2a419
+      internalID: -704689065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_86
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 262.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c2f303e6b888442b3ebd350d1b6c17
+      internalID: -632633610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_87
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 262.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8f42f4bf48d11489f42b4af453ca2c
+      internalID: -1028458962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_88
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 262.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96340d491b94a944795c69693baba967
+      internalID: -2090505324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_89
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 262.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f717db868d63df4fabb02ed2587698a
+      internalID: 401892039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_90
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 262.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9bf045d080eb3499d9764bd34b83a4
+      internalID: -928189983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_91
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 262.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a90ffbcbacede41934c7c8e28b0567
+      internalID: 2029619260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_92
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 262.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c3f47b3e5b815448bf7dd7b1e9f8fb
+      internalID: 1894181311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_93
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 262.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196e64ef9ade9fa4986062b5355227da
+      internalID: 1027444826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_94
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 262.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33408fbbd160884a90f0fd22e8ce873
+      internalID: -2886817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_95
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 262.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc9bea273e8c6b449e3502652179de4
+      internalID: -915282909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_96
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 135.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb07b0c79e385541b6e3c6b1d1c5164
+      internalID: -47583428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_97
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 135.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32d904165b1af842b2693c783a10fe4
+      internalID: 2142614166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_98
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 135.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409dd92cce0b4464ca72a8b8a074113a
+      internalID: 608117582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_99
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 135.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25de35b15152184e9097d88594620e3
+      internalID: 1874446368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_100
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 135.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bce1a2621118046bef285d3f7a4fcb
+      internalID: 1719203535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_101
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 135.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86af71bf20dc9694c8ec94102e2cc17a
+      internalID: 574649364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_102
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 135.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9008622b9a665409847327ebda96fc
+      internalID: -182012017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_103
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 135.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc0b26a108087f4a84c1c652a5d559c
+      internalID: -1672710427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_104
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 135.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112c0131ccc2a16429e446be1ea8623d
+      internalID: -1526164894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_105
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 135.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373671deecf0d9d41886b1d15f7fd479
+      internalID: 89612545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_106
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 135.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a26d7f81d88d344ca6326a890b66da5
+      internalID: -156049807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_107
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 135.1
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c21ac897bbdf74fa4544351cef672c
+      internalID: -1321854983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_108
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 8.099998
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a981279f383d020459098125d9d00699
+      internalID: 1659764725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_109
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 8.099998
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9c800eeda70a84da453483ee2d9675
+      internalID: 1103160123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_110
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 8.099998
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e52b8fea30c4ae4fa6fd541c227cedf
+      internalID: -2035015549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_111
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 8.099998
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6493932f598935746852024040532942
+      internalID: -2060944383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_112
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 8.099998
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c185dc43f0599844bae8407ddc26bf46
+      internalID: -1427919887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_113
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 8.099998
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2683a0edc6a29e04293ccdfe57362e06
+      internalID: -805414935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_114
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 8.099998
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361de25b49e6ef34bbba9dda49845896
+      internalID: -2128827704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_115
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 8.099998
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0a1acce2c4778469805608c9507543
+      internalID: 1735482549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_116
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 8.099998
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc0c24ea7293544aa6106f89bfa8f63
+      internalID: -970345653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_117
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 8.099998
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a826c34246d1345b73f5ffe2a17dbd
+      internalID: -962536893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_118
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 8.099998
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411cc457c54165843909a6baaa804fea
+      internalID: 554751173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bumerang_119
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 8.099998
+        width: 106.583336
+        height: 127.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155d29dccb826414fb40add11acc61f2
+      internalID: -295776309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bumerang_0: -182438074
+      Bumerang_1: 379867161
+      Bumerang_10: -1795086402
+      Bumerang_100: 1719203535
+      Bumerang_101: 574649364
+      Bumerang_102: -182012017
+      Bumerang_103: -1672710427
+      Bumerang_104: -1526164894
+      Bumerang_105: 89612545
+      Bumerang_106: -156049807
+      Bumerang_107: -1321854983
+      Bumerang_108: 1659764725
+      Bumerang_109: 1103160123
+      Bumerang_11: 459965525
+      Bumerang_110: -2035015549
+      Bumerang_111: -2060944383
+      Bumerang_112: -1427919887
+      Bumerang_113: -805414935
+      Bumerang_114: -2128827704
+      Bumerang_115: 1735482549
+      Bumerang_116: -970345653
+      Bumerang_117: -962536893
+      Bumerang_118: 554751173
+      Bumerang_119: -295776309
+      Bumerang_12: 641924331
+      Bumerang_13: -491183866
+      Bumerang_14: 1487184078
+      Bumerang_15: -1127789542
+      Bumerang_16: -663441948
+      Bumerang_17: 1275012272
+      Bumerang_18: 695491709
+      Bumerang_19: -345215121
+      Bumerang_2: 1662495943
+      Bumerang_20: -1071414790
+      Bumerang_21: -572169339
+      Bumerang_22: -1946007779
+      Bumerang_23: 1760673894
+      Bumerang_24: -1465507040
+      Bumerang_25: 999067751
+      Bumerang_26: 1318475234
+      Bumerang_27: -1187831419
+      Bumerang_28: -1395862577
+      Bumerang_29: -1386351744
+      Bumerang_3: -899916955
+      Bumerang_30: 1131779224
+      Bumerang_31: 1905272205
+      Bumerang_32: 698013221
+      Bumerang_33: 879540321
+      Bumerang_34: 1563207957
+      Bumerang_35: 926735514
+      Bumerang_36: -800707403
+      Bumerang_37: -577182846
+      Bumerang_38: -897361986
+      Bumerang_39: 611767080
+      Bumerang_4: -1232306888
+      Bumerang_40: 484347975
+      Bumerang_41: -1714382645
+      Bumerang_42: -522761947
+      Bumerang_43: -501744240
+      Bumerang_44: 1472759800
+      Bumerang_45: 703469458
+      Bumerang_46: -429016043
+      Bumerang_47: 1754496015
+      Bumerang_48: -823188480
+      Bumerang_49: 2006334335
+      Bumerang_5: -1811300084
+      Bumerang_50: 1404230013
+      Bumerang_51: -1978190620
+      Bumerang_52: 2141087775
+      Bumerang_53: 571760971
+      Bumerang_54: -1485993665
+      Bumerang_55: 710271795
+      Bumerang_56: -1671748659
+      Bumerang_57: -1825992308
+      Bumerang_58: 1780818338
+      Bumerang_59: -1564775331
+      Bumerang_6: 1415871536
+      Bumerang_60: 1606949971
+      Bumerang_61: -1065806008
+      Bumerang_62: 1206822591
+      Bumerang_63: 1605026605
+      Bumerang_64: -32022309
+      Bumerang_65: 1370013247
+      Bumerang_66: -1643157137
+      Bumerang_67: -971495066
+      Bumerang_68: 1244029449
+      Bumerang_69: 1812928564
+      Bumerang_7: -80580917
+      Bumerang_70: -1558163902
+      Bumerang_71: -1117798175
+      Bumerang_72: 1295657151
+      Bumerang_73: 1793269759
+      Bumerang_74: -341035961
+      Bumerang_75: 402927562
+      Bumerang_76: -742636356
+      Bumerang_77: -53683647
+      Bumerang_78: 1090363613
+      Bumerang_79: -1440192280
+      Bumerang_8: -1475039740
+      Bumerang_80: -1257867588
+      Bumerang_81: -1195224294
+      Bumerang_82: 1219249190
+      Bumerang_83: -50623553
+      Bumerang_84: -1928315247
+      Bumerang_85: -704689065
+      Bumerang_86: -632633610
+      Bumerang_87: -1028458962
+      Bumerang_88: -2090505324
+      Bumerang_89: 401892039
+      Bumerang_9: 1730482603
+      Bumerang_90: -928189983
+      Bumerang_91: 2029619260
+      Bumerang_92: 1894181311
+      Bumerang_93: 1027444826
+      Bumerang_94: -2886817
+      Bumerang_95: -915282909
+      Bumerang_96: -47583428
+      Bumerang_97: 2142614166
+      Bumerang_98: 608117582
+      Bumerang_99: 1874446368
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

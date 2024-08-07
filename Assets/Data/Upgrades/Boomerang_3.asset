@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d66c41783c938a946bee1502a0fd842f, type: 3}
+  m_Name: Boomerang_3
+  m_EditorClassIdentifier: 
+  upgradeName: Boomerang lvl 3
+  upgradeDescription: Increases rotation speed
+  upgradeIcon: {fileID: 21300000, guid: 2bf69f91c23862f4d8a0d4d85e06d820, type: 3}
+  upgradeType: 4
+  newAmplification: 40
+  newAtackSpeed: 0.02
+  newAttackRadius: 2
+  newNumberOfProjectiles: 2
+  weaponData: {fileID: 11400000, guid: 828e8390ce8d16e49a49288cf2a5d1b5, type: 2}
+  prerequiredUpgrade: {fileID: 11400000, guid: 8b76a03f1605e5d40a88ed83be1b68e5, type: 2}

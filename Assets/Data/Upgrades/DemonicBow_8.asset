@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d66c41783c938a946bee1502a0fd842f, type: 3}
+  m_Name: DemonicBow_8
+  m_EditorClassIdentifier: 
+  upgradeName: Demonic Bow lvl 8
+  upgradeDescription: Sets Damage to 100
+  upgradeIcon: {fileID: 21300000, guid: 9f3a7a34cf53b2e4ba5048cbb610b407, type: 3}
+  upgradeType: 4
+  newAmplification: 100
+  newAtackSpeed: 0.8
+  newAttackRadius: 0
+  newNumberOfProjectiles: 3
+  weaponData: {fileID: 11400000, guid: ca3cb8a0da803914b8e708c42e0d85ff, type: 2}
+  prerequiredUpgrade: {fileID: 11400000, guid: f9f82bed3338f7f45b763c3e2bb527ef, type: 2}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1391c1c8adea9404fa68b1bb3fd84d02, type: 3}
+  m_Name: VampireFemale2
+  m_EditorClassIdentifier: 
+  Name: VampireFemale2
+  animatedPrefab: {fileID: 3756231833362719744, guid: cce4638b21851024fbb4b2954c33bc87, type: 3}
+  enemyStats:
+    hp: 340
+    damage: 40
+    speed: 6.9
+    experienceReward: 230
+    isBoss: 0

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1391c1c8adea9404fa68b1bb3fd84d02, type: 3}
+  m_Name: Ghost
+  m_EditorClassIdentifier: 
+  Name: Ghost
+  animatedPrefab: {fileID: 3756231833362719744, guid: d6bb56cb3cb19d3439199ab08e8ddf3b, type: 3}
+  enemyStats:
+    hp: 460
+    damage: 30
+    speed: 4.2
+    experienceReward: 135
+    isBoss: 0

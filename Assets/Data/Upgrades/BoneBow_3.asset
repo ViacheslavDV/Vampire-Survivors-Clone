@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d66c41783c938a946bee1502a0fd842f, type: 3}
+  m_Name: BoneBow_3
+  m_EditorClassIdentifier: 
+  upgradeName: Bone Bow lvl 3
+  upgradeDescription: Amplifies Damage to 15
+  upgradeIcon: {fileID: 21300000, guid: 6d0cbe3956b9a884cbe8802a8bc24a3a, type: 3}
+  upgradeType: 4
+  newAmplification: 15
+  newAtackSpeed: 0.8
+  newAttackRadius: 0
+  newNumberOfProjectiles: 4
+  weaponData: {fileID: 11400000, guid: 5da697e42d9593f41b652311ee4a689a, type: 2}
+  prerequiredUpgrade: {fileID: 11400000, guid: ee3e4c0b722c1164a92570ee8c2db61d, type: 2}

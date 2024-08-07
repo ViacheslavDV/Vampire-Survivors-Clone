@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ce78474ebb621141a1c967d0856580b, type: 3}
+  m_Name: Whip
+  m_EditorClassIdentifier: 
+  weaponName: Whip
+  weaponStats:
+    damage: 45
+    timeBetweenAtacks: 1.3
+    defaultDamage: 45
+    defaultTimeBetweenAtacks: 1.3
+    numberOfProjectiles: 1
+    defaultNumberOfProjectiles: 1
+  weaponPrimaryPrefab: {fileID: 259725200630235650, guid: 38f1d550ba5784f4481b91957a7a72f4, type: 3}
