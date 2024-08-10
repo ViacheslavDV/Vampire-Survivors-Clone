@@ -11,6 +11,7 @@ public class GameOver : MonoBehaviour
         GetComponent<PlayerMovement>().enabled = false;
         ResetStats();
         playerWeapons.SetActive(false);
+        AudioManager.Instance.StopAudio(0);
         gameOverScreen.gameObject.SetActive(true);
     }
 

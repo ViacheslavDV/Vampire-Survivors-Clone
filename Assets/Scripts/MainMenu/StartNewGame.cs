@@ -7,5 +7,6 @@ public class StartNewGame : MonoBehaviour
     public void StartGame()
     {
         SceneManager.LoadScene(GAME_SCENE);
+        AudioManager.Instance.PlayAudio(0);
     }
 }
