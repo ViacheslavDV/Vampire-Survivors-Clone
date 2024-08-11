@@ -16,7 +16,7 @@ MonoBehaviour:
   animatedPrefab: {fileID: 3756231833362719744, guid: 09feb216ec50afb4c9aaf0dad458a620, type: 3}
   enemyStats:
     hp: 50000
-    damage: 80
-    speed: 2.3
-    experienceReward: 2000
+    damage: 100
+    speed: 5
+    experienceReward: 3000
     isBoss: 1

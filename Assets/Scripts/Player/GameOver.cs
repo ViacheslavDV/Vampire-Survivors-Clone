@@ -4,6 +4,7 @@ using UnityEngine;
 public class GameOver : MonoBehaviour
 {
     public GameObject gameOverScreen;
+    public GameObject winGameScreen;
     [SerializeField] GameObject playerWeapons;
     [SerializeField] List<WeaponData> weaponDataList;
     public void FinishGameUponPlayersDeath()
@@ -12,7 +13,16 @@ public class GameOver : MonoBehaviour
         ResetStats();
         playerWeapons.SetActive(false);
         if(AudioManager.Instance != null) AudioManager.Instance.StopAudio(0);
-        gameOverScreen.gameObject.SetActive(true);
+        gameOverScreen.SetActive(true);
+    }
+
+    public void TriggerWinGame()
+    {
+        GetComponent<PlayerMovement>().enabled = false;
+        ResetStats();
+        playerWeapons.SetActive(false);
+        if (AudioManager.Instance != null) AudioManager.Instance.StopAudio(0);
+        winGameScreen.SetActive(true);
     }
 
     private void ResetStats()

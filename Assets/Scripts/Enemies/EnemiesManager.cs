@@ -10,36 +10,20 @@ public class EnemiesManager : MonoBehaviour
     [SerializeField] Slider bossHealthBar;
     private float maxBossHealth;
     private Enemy currentBoss;
+
+    GameOver gameOverScript;
+    private void Start()
+    {
+        gameOverScript = GetComponent<GameOver>();
+    }
+
     public void SpawnEnemy(EnemyData enemyType, bool isBoss)
     {
         GameObject enemy = EnemiesPoolManager.Instance.SpawnEnemyFromPool(enemyType.Name);
         Enemy newEnemyComponent = enemy.GetComponent<Enemy>();
         newEnemyComponent.SetTarget(player);
         newEnemyComponent.SetStats(enemyType.enemyStats);
-        /*newEnemy.transform.parent = transform;
-        if (isBoss) currentBoss = newEnemyComponent;
-
-        GameObject enemySprite = Instantiate(enemyType.animatedPrefab);
-        enemySprite.transform.parent = newEnemy.transform;
-        enemySprite.transform.localPosition = Vector3.zero;*/
-    }
-
-    private Vector3 GenerateRandomPosition()
-    {
-        Vector3 spawnPosition = new Vector3();
-        spawnPosition.z = 0f;
-        float determiner = UnityEngine.Random.value > 0.5f ? -1f : 1f;
-        if (UnityEngine.Random.value > 0.5f)
-        {
-            spawnPosition.x = UnityEngine.Random.Range(-spawnArea.x, spawnArea.x);
-            spawnPosition.y = spawnArea.y * determiner;
-        } else
-        {
-            spawnPosition.x = spawnArea.x * determiner;
-            spawnPosition.y = UnityEngine.Random.Range(-spawnArea.y, spawnArea.y);
-        }
-        
-        return spawnPosition;
+        if(isBoss) currentBoss = newEnemyComponent;
     }
 
     public void UpdateBossHealth()
@@ -64,6 +48,6 @@ public class EnemiesManager : MonoBehaviour
     private void TriggerBossDeath()
     {
         bossHealthBar.gameObject.SetActive(false);
-        Debug.Log("boss is dead");
+        gameOverScript.TriggerWinGame();
     }
 }

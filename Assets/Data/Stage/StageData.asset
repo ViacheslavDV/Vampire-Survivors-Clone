@@ -339,43 +339,79 @@ MonoBehaviour:
     enemyCount: 70
   - triggerTime: 1080
     enemyType: {fileID: 11400000, guid: ed51ec5de67feea41bcf09522a3ee7ac, type: 2}
-    enemyCount: 18
+    enemyCount: 22
   - triggerTime: 1090
     enemyType: {fileID: 11400000, guid: 77c6e436609272347bea16489137c4de, type: 2}
-    enemyCount: 14
+    enemyCount: 16
   - triggerTime: 1100
     enemyType: {fileID: 11400000, guid: 3061449f7ac0e0a46908fef8bd26ba12, type: 2}
-    enemyCount: 48
+    enemyCount: 52
   - triggerTime: 1110
     enemyType: {fileID: 11400000, guid: 986ae0b77597e2949a5d341fd6e5eaab, type: 2}
-    enemyCount: 30
+    enemyCount: 34
   - triggerTime: 1120
     enemyType: {fileID: 11400000, guid: ed51ec5de67feea41bcf09522a3ee7ac, type: 2}
-    enemyCount: 24
+    enemyCount: 30
   - triggerTime: 1130
     enemyType: {fileID: 11400000, guid: e86bdfe6edfaef24a8af4f3259d8efdf, type: 2}
     enemyCount: 60
   - triggerTime: 1140
     enemyType: {fileID: 11400000, guid: bd4ae2257cee3b54fbb02f6dbb9832d5, type: 2}
-    enemyCount: 40
+    enemyCount: 46
   - triggerTime: 1150
     enemyType: {fileID: 11400000, guid: 77c6e436609272347bea16489137c4de, type: 2}
-    enemyCount: 20
+    enemyCount: 30
   - triggerTime: 1160
     enemyType: {fileID: 11400000, guid: cf2f7c5730f177d44891d9243601beae, type: 2}
     enemyCount: 80
   - triggerTime: 1170
     enemyType: {fileID: 11400000, guid: 1dcdfecb4ae4c2b4eaed9b0f31394094, type: 2}
-    enemyCount: 38
+    enemyCount: 44
   - triggerTime: 1180
     enemyType: {fileID: 11400000, guid: ed51ec5de67feea41bcf09522a3ee7ac, type: 2}
-    enemyCount: 30
+    enemyCount: 40
   - triggerTime: 1190
     enemyType: {fileID: 11400000, guid: 986ae0b77597e2949a5d341fd6e5eaab, type: 2}
-    enemyCount: 40
+    enemyCount: 50
   - triggerTime: 1200
     enemyType: {fileID: 11400000, guid: 1af0fdd669e1f274c8ca0b2ec9a5043b, type: 2}
     enemyCount: 1
-  - triggerTime: 1201
-    enemyType: {fileID: 11400000, guid: 1af0fdd669e1f274c8ca0b2ec9a5043b, type: 2}
+  - triggerTime: 1210
+    enemyType: {fileID: 11400000, guid: 3061449f7ac0e0a46908fef8bd26ba12, type: 2}
+    enemyCount: 70
+  - triggerTime: 1220
+    enemyType: {fileID: 11400000, guid: 1dcdfecb4ae4c2b4eaed9b0f31394094, type: 2}
+    enemyCount: 60
+  - triggerTime: 1230
+    enemyType: {fileID: 11400000, guid: ed51ec5de67feea41bcf09522a3ee7ac, type: 2}
+    enemyCount: 50
+  - triggerTime: 1240
+    enemyType: {fileID: 11400000, guid: 986ae0b77597e2949a5d341fd6e5eaab, type: 2}
+    enemyCount: 50
+  - triggerTime: 1250
+    enemyType: {fileID: 11400000, guid: bd4ae2257cee3b54fbb02f6dbb9832d5, type: 2}
+    enemyCount: 60
+  - triggerTime: 1260
+    enemyType: {fileID: 11400000, guid: 77c6e436609272347bea16489137c4de, type: 2}
+    enemyCount: 80
+  - triggerTime: 1270
+    enemyType: {fileID: 11400000, guid: 3061449f7ac0e0a46908fef8bd26ba12, type: 2}
+    enemyCount: 76
+  - triggerTime: 1280
+    enemyType: {fileID: 11400000, guid: 1dcdfecb4ae4c2b4eaed9b0f31394094, type: 2}
+    enemyCount: 66
+  - triggerTime: 1290
+    enemyType: {fileID: 11400000, guid: ed51ec5de67feea41bcf09522a3ee7ac, type: 2}
+    enemyCount: 56
+  - triggerTime: 1300
+    enemyType: {fileID: 11400000, guid: 986ae0b77597e2949a5d341fd6e5eaab, type: 2}
+    enemyCount: 56
+  - triggerTime: 1310
+    enemyType: {fileID: 11400000, guid: bd4ae2257cee3b54fbb02f6dbb9832d5, type: 2}
+    enemyCount: 70
+  - triggerTime: 1320
+    enemyType: {fileID: 11400000, guid: 77c6e436609272347bea16489137c4de, type: 2}
+    enemyCount: 90
+  - triggerTime: 1330
+    enemyType: {fileID: 11400000, guid: 77c6e436609272347bea16489137c4de, type: 2}
     enemyCount: 0

@@ -15,6 +15,11 @@ public class StageEventManager : MonoBehaviour
         timeUI = FindAnyObjectByType<TimeUI>();
     }
 
+    private void Start()
+    {
+        Invoke(nameof(TriggerBoss), timeOfBossToSpawn);
+    }
+
     private void Update()
     {
         currentGameTime += Time.deltaTime;
@@ -37,16 +42,15 @@ public class StageEventManager : MonoBehaviour
             stageIndex++;
         }
 
-        if (currentGameTime >= timeOfBossToSpawn && bossesLeftToSpawn == 0)
-        {
-            EnemyStats bossData = stageData.stageEvents[bossStageId].enemyType.enemyStats;
-            enemiesManager.TriggerBossSpawn(bossData);
-        }
-
         if (bossesLeftToSpawn == 0)
         {
-            Debug.Log("boss hp is updating");
             enemiesManager.UpdateBossHealth();
         }
+    }
+
+    private void TriggerBoss()
+    {
+        EnemyStats bossData = stageData.stageEvents[bossStageId].enemyType.enemyStats;
+        enemiesManager.TriggerBossSpawn(bossData);
     }
 }
