@@ -21,6 +21,9 @@ public class Enemy : MonoBehaviour, IDamagable
     public EnemyStats enemyStats;
 
     private const float moveUpdateInterval = 0.333f;
+    private const float respawnCheckInterval = 2f;
+    private const float edgeDistanceToTriggerRespawn = 32f;
+    private const float respawnDistance = 16f;
 
     private void Awake()
     {

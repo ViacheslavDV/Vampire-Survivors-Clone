@@ -13,6 +13,7 @@ public class ExperienceManager : MonoBehaviour
     private List<Upgrade> availableUpgrades = new();
 
     WeaponManager weaponManager;
+    CoinManager coinManager;
     PlayerMovement playerMovement;
     Character character;
 
@@ -26,6 +27,7 @@ public class ExperienceManager : MonoBehaviour
         weaponManager = GetComponent<WeaponManager>();
         playerMovement = GetComponent<PlayerMovement>();
         character = GetComponent<Character>();
+        coinManager = GetComponent<CoinManager>();
     }
 
     private void Start()
@@ -66,6 +68,14 @@ public class ExperienceManager : MonoBehaviour
 
         if (availableUpgrades.Count == 0) return;
         upgradePanelManager.ShowUpgradeOptions(availableUpgrades, this);
+    }
+
+    public void ShuffleUpgrades()
+    {
+        bool canShuffle = coinManager.CanPurchaseShuffle();
+        if (!canShuffle) return;
+        upgradePanelManager.CloseLevelUpMenuWithoutUnpause();
+        OpenLevelUpMenu();
     }
 
     public void ApplyUpgrade(int upgradeId) 

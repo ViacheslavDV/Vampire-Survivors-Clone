@@ -39,6 +39,11 @@ public class UpgradePanelManager : MonoBehaviour
         pauseManager.UnPauseGame();
     }
 
+    public void CloseLevelUpMenuWithoutUnpause()
+    {
+        levelUpMenu.SetActive(false);
+    }
+
     public void SetUpgrade(int buttonId)
     {
         GameManager.instance.playerTransform.

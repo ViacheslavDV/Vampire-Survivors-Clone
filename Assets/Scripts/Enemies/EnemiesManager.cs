@@ -12,9 +12,6 @@ public class EnemiesManager : MonoBehaviour
     private Enemy currentBoss;
     public void SpawnEnemy(EnemyData enemyType, bool isBoss)
     {
-        /*Vector3 spawnPosition = GenerateRandomPosition();
-        spawnPosition += player.transform.position;*/
-
         GameObject enemy = EnemiesPoolManager.Instance.SpawnEnemyFromPool(enemyType.Name);
         Enemy newEnemyComponent = enemy.GetComponent<Enemy>();
         newEnemyComponent.SetTarget(player);

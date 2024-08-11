@@ -16,6 +16,7 @@ public class EnemiesPoolManager : MonoBehaviour
     }
 
     [SerializeField] GameObject player;
+    private const int spawnDistanceFromPlayer = 15; 
     public List<EnemiesPool> pools;
     private Dictionary<string, Queue<GameObject>> poolDictionary;
 
@@ -76,13 +77,13 @@ public class EnemiesPoolManager : MonoBehaviour
         float determiner = UnityEngine.Random.value > 0.5f ? -1f : 1f;
         if (UnityEngine.Random.value > 0.5f)
         {
-            spawnPosition.x = UnityEngine.Random.Range(-10, 10);
-            spawnPosition.y = 10 * determiner;
+            spawnPosition.x = UnityEngine.Random.Range(-spawnDistanceFromPlayer, spawnDistanceFromPlayer);
+            spawnPosition.y = spawnDistanceFromPlayer * determiner;
         }
         else
         {
-            spawnPosition.x = 10 * determiner;
-            spawnPosition.y = UnityEngine.Random.Range(-10, 10);
+            spawnPosition.x = spawnDistanceFromPlayer * determiner;
+            spawnPosition.y = UnityEngine.Random.Range(-spawnDistanceFromPlayer, spawnDistanceFromPlayer);
         }
 
         return spawnPosition;
