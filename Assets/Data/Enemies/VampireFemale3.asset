@@ -18,5 +18,5 @@ MonoBehaviour:
     hp: 580
     damage: 55
     speed: 12
-    experienceReward: 200
+    experienceReward: 180
     isBoss: 0

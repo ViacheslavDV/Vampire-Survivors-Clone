@@ -17,6 +17,6 @@ MonoBehaviour:
   enemyStats:
     hp: 435
     damage: 40
-    speed: 2.5
+    speed: 2.6
     experienceReward: 120
     isBoss: 0

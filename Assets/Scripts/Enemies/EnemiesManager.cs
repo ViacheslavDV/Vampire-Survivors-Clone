@@ -6,15 +6,14 @@ public class EnemiesManager : MonoBehaviour
     [SerializeField] GameObject enemy;
     [SerializeField] Vector2 spawnArea;
     [SerializeField] GameObject player;
-
     [SerializeField] Slider bossHealthBar;
     private float maxBossHealth;
     private Enemy currentBoss;
-
     GameOver gameOverScript;
+
     private void Start()
     {
-        gameOverScript = GetComponent<GameOver>();
+        gameOverScript = player.GetComponent<GameOver>();
     }
 
     public void SpawnEnemy(EnemyData enemyType, bool isBoss)

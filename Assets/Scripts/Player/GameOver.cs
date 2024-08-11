@@ -7,6 +7,7 @@ public class GameOver : MonoBehaviour
     public GameObject winGameScreen;
     [SerializeField] GameObject playerWeapons;
     [SerializeField] List<WeaponData> weaponDataList;
+
     public void FinishGameUponPlayersDeath()
     {
         GetComponent<PlayerMovement>().enabled = false;

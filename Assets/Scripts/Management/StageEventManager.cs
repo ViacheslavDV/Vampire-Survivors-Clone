@@ -25,9 +25,9 @@ public class StageEventManager : MonoBehaviour
         currentGameTime += Time.deltaTime;
         timeUI.UpdateTime(currentGameTime);
 
-        if (currentGameTime > stageData.stageEvents[stageIndex].triggerTime && (bossesLeftToSpawn != 0))
+        if (currentGameTime > stageData.stageEvents[stageIndex].triggerTime && ((stageIndex + 1) != stageData.stageEvents.Count))
         {
-            if ((stageIndex + 1) == stageData.stageEvents.Count) return;
+            //if ((stageIndex + 1) == stageData.stageEvents.Count) return;
             
             for (int i = 0; i < stageData.stageEvents[stageIndex].enemyCount; i++)
             {
